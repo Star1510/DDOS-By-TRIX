@@ -2,7 +2,7 @@ from telethon import TelegramClient
 import asyncio
 
 # Set your API credentials
-API_ID = 'your_api_id'  # Replace with your API ID
+API_ID = '5458482758'  # Replace with your API ID
 API_HASH = 'your_api_hash'  # Replace with your API hash
 
 # Define the source group and destination channel
